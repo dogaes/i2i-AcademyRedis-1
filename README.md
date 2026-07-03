@@ -17,16 +17,6 @@ This will:
 
 You can also inspect the stored keys live in RedisInsight's key browser.
 
-## Project structure
-
-\`\`\`
-person-cache-demo/
-├── pom.xml
-└── src/main/java/com/example/rediscache/
-    ├── Person.java          # dummy domain object (id, name, age)
-    └── PersonCacheApp.java  # connects, inserts, retrieves, verifies
-\`\`\`
-
 <img width="577" height="432" alt="Screenshot 2026-07-03 at 9 10 01 PM" src="https://github.com/user-attachments/assets/e7ed4ff0-31bd-4ff7-895f-cdc112a3e942" />
 
 <img width="766" height="684" alt="Screenshot 2026-07-03 at 8 52 09 PM" src="https://github.com/user-attachments/assets/4470298e-891b-4712-bdc2-0c5cde3820fd" />
