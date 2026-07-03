@@ -26,3 +26,10 @@ person-cache-demo/
     ├── Person.java          # dummy domain object (id, name, age)
     └── PersonCacheApp.java  # connects, inserts, retrieves, verifies
 \`\`\`
+
+<img width="577" height="432" alt="Screenshot 2026-07-03 at 9 10 01 PM" src="https://github.com/user-attachments/assets/e7ed4ff0-31bd-4ff7-895f-cdc112a3e942" />
+
+<img width="766" height="684" alt="Screenshot 2026-07-03 at 8 52 09 PM" src="https://github.com/user-attachments/assets/4470298e-891b-4712-bdc2-0c5cde3820fd" />
+
+<img width="1042" height="554" alt="Screenshot 2026-07-03 at 9 07 11 PM" src="https://github.com/user-attachments/assets/2a3db54c-cb6e-4af3-ab17-877d0444827a" />
+
